@@ -1,0 +1,7 @@
+list={}
+
+list={"name" => "bread"}
+
+list[1]="new_item_number"
+
+puts list
